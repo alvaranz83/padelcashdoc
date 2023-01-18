@@ -1,6 +1,8 @@
 site_name: PadelCash Documentation
 site_url: https://padelcashdocs.com/
 nav:
+    - What is Padelcash (PADEL): 'what_is_padelcash.md'
+    - Benefits: 'benefits.md'
     - Padelcash (PADEL) Liquidity pool: 'padelcash_liquidity_pool.md'
     - How to buy Padelcash (PADEL): 'how_to_buy_padelcash.md'
     - Pay with Padelcash: 'pay_with_padelcash.md'
@@ -8,6 +10,6 @@ nav:
     - Join the VendorEcosystem | Accept Padelcash as a form of Payment: 'join_and_accept_padelcash.md'
     - FAQ: 'faq.md'
 theme: readthedocs
-site_author: Jullio
+site_author: Julio
 extra:
     version: 1.0
