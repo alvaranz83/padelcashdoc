@@ -10,6 +10,6 @@ nav:
     - Join the VendorEcosystem | Accept Padelcash as a form of Payment: 'join_and_accept_padelcash.md'
     - FAQ: 'faq.md'
 theme: readthedocs
-site_author: Julio
+site_author: Jullio
 extra:
     version: 1.0
