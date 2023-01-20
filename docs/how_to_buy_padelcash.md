@@ -20,78 +20,6 @@ Padelcash recommends the following wallets. They are some of the most widely use
 
 The three of them allow you to buy digital currencies within the wallet and the three of them are used daily by tens of millions of users worldwide to transfer, receive, and trade.
 
-
-## STEP 2: Add BinanceUSD (BUSD) balance to your Wallet
-
-Once you’ve selected which Wallet you want to use and have installed the app or downloaded the wallet browser extension you need to buy BUSD, the stablecoin currency used for pair trading with PADEL.
-
-BinanceUSD is a 1:1 USD backed stablecoin (Stable digital currency) approved by the New Yok State Department of Financial services (NYDFS).
-
-1 BUSD is essentially 1 USD.
-
-
-### • Add BUSD to your WalletDirect- Binance Wallet:
-
-1\. <b>Open your Wallet Direct – Binance Wallet browser extension and click the Buy button</b>
-
-<br/>
-	<div style="display: flex; justify-content: center;">
-		<img src="../img/how_to_buy1.png" style="width:40%; object-fit: contain;">
-	</div>
-<br/>
-
-2\. <b>You will be redirected to MoonPay where you can select how much BUSD you want to buy and in what FIAT currency.</b>
-
-If it is the first time you use MoonPay you might be requested to verify your ID before you can start buying digital currencies with their third-party service. It is a simple process that takes approximately 5 minutes. After submitting your verification documents, it might take around 30 minutes to verify your ID. 
-
-
-<br/>
-	<div style="display: flex; justify-content: center;">
-		<img src="../img/how_to_buy2.png" style="width:40%; object-fit: contain;">
-	</div>
-<br/>
-
-
-3\. <b>Once your verification is approved you can buy BUSD using Fiat and once your transaction completes you can head back to your Binance Wallet and you will see your BUSD</b>
-
-
-<br/>
-	<div style="display: flex; justify-content: center;">
-		<img src="../img/how_to_buy3.png" style="width:40%; object-fit: contain;">
-	</div>
-<br/>
-
-
-### • Add BUSD to your Trust Wallet
-
-
-1\.	<b>Open your TrustWallet Mobile app on IOS or Android and tap the button Buy</b>
-
-<br/>
-	<div style="display: flex; justify-content: center;">
-		<img src="../img/how_to_buy4.png" style="width:40%; object-fit: contain;">
-	</div>
-<br/>
-
-2\.	<b>Select how much Binance Peg-USD you want to buy.</b>
-
-Make sure it is the BEP-20 token. You will get different quotes from different providers, select the quote that works best for you or if you already use any of these third-party providers you can use it for convenience. We recommend to use MoonPay to buy directly from the TrustWallet app.
-
-<br/>
-	<div style="display: flex; justify-content: center;">
-		<img src="../img/how_to_buy5.jpg" style="width:40%; object-fit: contain;">
-	</div>
-<br/>
-
-3\.	<b>Once you confirm your transaction you can go back to your Trust Wallet and you will see you the purchased BUSD</b>
-
-<br/>
-	<div style="display: flex; justify-content: space-evenly;">
-		<img src="../img/how_to_buy6_1.png" style="width:40%; object-fit: contain;">
-		<img src="../img/how_to_buy6_2.png" style="width:40%; object-fit: contain;">
-	</div>
-<br/>
-
 ### • Add BUSD to your Metamask Wallet
 
 	Metamask Web Browser Extension
@@ -156,6 +84,78 @@ Our Preference is MoonPay but both, Transak and Moonpay work equally well.
 		<img src="../img/how_to_buy17.png" style="width:40%; height: 500px; object-fit: fill;">
 	</div>
 <br/>
+
+## STEP 2: Add BinanceUSD (BUSD) balance to your Wallet
+
+Once you’ve selected which Wallet you want to use and have installed the app or downloaded the wallet browser extension you need to buy BUSD, the stablecoin currency used for pair trading with PADEL.
+
+BinanceUSD is a 1:1 USD backed stablecoin (Stable digital currency) approved by the New Yok State Department of Financial services (NYDFS).
+
+1 BUSD is essentially 1 USD.
+
+
+### • Add BUSD to your WalletDirect- Binance Wallet:
+
+1\. <b>Open your Wallet Direct – Binance Wallet browser extension and click the Buy button</b>
+
+<br/>
+	<div style="display: flex; justify-content: center;">
+		<img src="../img/how_to_buy1.png" style="width:40%; object-fit: contain;">
+	</div>
+<br/>
+
+2\. <b>You will be redirected to MoonPay where you can select how much BUSD you want to buy and in what FIAT currency.</b>
+
+If it is the first time you use MoonPay you might be requested to verify your ID before you can start buying digital currencies with their third-party service. It is a simple process that takes approximately 5 minutes. After submitting your verification documents, it might take around 30 minutes to verify your ID.
+
+
+<br/>
+	<div style="display: flex; justify-content: center;">
+		<img src="../img/how_to_buy2.png" style="width:40%; object-fit: contain;">
+	</div>
+<br/>
+
+
+3\. <b>Once your verification is approved you can buy BUSD using Fiat and once your transaction completes you can head back to your Binance Wallet and you will see your BUSD</b>
+
+
+<br/>
+	<div style="display: flex; justify-content: center;">
+		<img src="../img/how_to_buy3.png" style="width:40%; object-fit: contain;">
+	</div>
+<br/>
+
+
+### • Add BUSD to your Trust Wallet
+
+
+1\.	<b>Open your TrustWallet Mobile app on IOS or Android and tap the button Buy</b>
+
+<br/>
+	<div style="display: flex; justify-content: center;">
+		<img src="../img/how_to_buy4.png" style="width:40%; object-fit: contain;">
+	</div>
+<br/>
+
+2\.	<b>Select how much Binance Peg-USD you want to buy.</b>
+
+Make sure it is the BEP-20 token. You will get different quotes from different providers, select the quote that works best for you or if you already use any of these third-party providers you can use it for convenience. We recommend to use MoonPay to buy directly from the TrustWallet app.
+
+<br/>
+	<div style="display: flex; justify-content: center;">
+		<img src="../img/how_to_buy5.jpg" style="width:40%; object-fit: contain;">
+	</div>
+<br/>
+
+3\.	<b>Once you confirm your transaction you can go back to your Trust Wallet and you will see you the purchased BUSD</b>
+
+<br/>
+	<div style="display: flex; justify-content: space-evenly;">
+		<img src="../img/how_to_buy6_1.png" style="width:40%; object-fit: contain;">
+		<img src="../img/how_to_buy6_2.png" style="width:40%; object-fit: contain;">
+	</div>
+<br/>
+
 
 ## STEP 3: Buy PADEL in PancakeSwap using BUSD
 
@@ -258,30 +258,3 @@ You should now see the PADEL that you own in your Wallet Direct.
 		<img src="../img/how_to_buy34.png" style="width:40%; object-fit: contain;">
 	</div>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
