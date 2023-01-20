@@ -4,7 +4,7 @@
 
 * [What is Padelcash (PADEL)](what_is_padelcash.md)
 * [Benefits](benefits.md)
-* [Padelcash (PADEL) Liquidity pool](padelcash_liquidity_pool.md)
+* [Liquidity pool](padelcash_liquidity_pool.md)
 
 * [How to buy Padelcash (PADEL)](how_to_buy_padelcash.md)
 
