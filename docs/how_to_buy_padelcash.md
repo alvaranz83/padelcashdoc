@@ -20,6 +20,14 @@ Padelcash recommends the following wallets. They are some of the most widely use
 
 The three of them allow you to buy digital currencies within the wallet and the three of them are used daily by tens of millions of users worldwide to transfer, receive, and trade.
 
+## STEP 2: Add BinanceUSD (BUSD) balance to your Wallet
+
+Once you’ve selected which Wallet you want to use and have installed the app or downloaded the wallet browser extension you need to buy BUSD, the stablecoin currency used for pair trading with PADEL.
+
+BinanceUSD is a 1:1 USD backed stablecoin (Stable digital currency) approved by the New Yok State Department of Financial services (NYDFS).
+
+1 BUSD is essentially 1 USD.
+
 ### • Add BUSD to your Metamask Wallet
 
 	Metamask Web Browser Extension
@@ -84,15 +92,6 @@ Our Preference is MoonPay but both, Transak and Moonpay work equally well.
 		<img src="../img/how_to_buy17.png" style="width:40%; height: 500px; object-fit: fill;">
 	</div>
 <br/>
-
-## STEP 2: Add BinanceUSD (BUSD) balance to your Wallet
-
-Once you’ve selected which Wallet you want to use and have installed the app or downloaded the wallet browser extension you need to buy BUSD, the stablecoin currency used for pair trading with PADEL.
-
-BinanceUSD is a 1:1 USD backed stablecoin (Stable digital currency) approved by the New Yok State Department of Financial services (NYDFS).
-
-1 BUSD is essentially 1 USD.
-
 
 ### • Add BUSD to your WalletDirect- Binance Wallet:
 
