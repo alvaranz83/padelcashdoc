@@ -1,4 +1,4 @@
-# How to buy Padelcash (PADEL)
+# How to buy Padelcash
 
 Buying Padelcash is easy, but if you have not used crypto wallets or traded digital currencies before we are adding here below some of the different methods of buying Padelcash that might be easier to you.
 

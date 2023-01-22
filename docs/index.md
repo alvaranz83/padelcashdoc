@@ -6,7 +6,7 @@
 * [Benefits](benefits.md)
 * [Liquidity pool](padelcash_liquidity_pool.md)
 
-* [How to buy Padelcash (PADEL)](how_to_buy_padelcash.md)
+* [How to buy Padelcash](how_to_buy_padelcash.md)
 
     * [STEP 1: Select which Digital crypto wallet you would like to use](how_to_buy_padelcash.md#step-1-select-which-digital-crypto-wallet-you-would-like-to-use)
     * [STEP 2: Add BinanceUSD (BUSD) balance to your Wallet](how_to_buy_padelcash.md#step-2-add-binanceusd-busd-balance-to-your-wallet)
