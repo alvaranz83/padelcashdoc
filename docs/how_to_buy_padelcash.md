@@ -3,7 +3,7 @@
 Buying Padelcash is easy, but if you have not used crypto wallets or traded digital currencies before we are adding here below some of the different methods of buying Padelcash that might be easier to you.
 
 
-## STEP 1: Select which Digital crypto wallet you would like to use.
+## STEP 1: Select a Digital crypto wallet.
 
 Digital crypto wallets are pretty much like bank accounts but for digital currencies. You can create a wallet, in which you can hold your digital currencies and from there you can receive and send digital currencies to other wallets or pay for services using digital currencies. Think of a wallet pretty much as the same mechanism as a bank account.
 

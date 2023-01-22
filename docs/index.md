@@ -8,7 +8,7 @@
 
 * [How to buy Padelcash](how_to_buy_padelcash.md)
 
-    * [STEP 1: Select which Digital crypto wallet you would like to use](how_to_buy_padelcash.md#step-1-select-which-digital-crypto-wallet-you-would-like-to-use)
+    * [STEP 1: Select a Digital crypto wallet.](how_to_buy_padelcash.md#step-1-select-which-digital-crypto-wallet-you-would-like-to-use)
     * [STEP 2: Add BinanceUSD (BUSD) balance to your Wallet](how_to_buy_padelcash.md#step-2-add-binanceusd-busd-balance-to-your-wallet)
     * [STEP 3: Buy PADEL in PancakeSwap using BUSD](how_to_buy_padelcash.md#step-3-buy-padel-in-pancakeswap-using-busd)
     * [STEP 4: See your Padelcash in your wallet](how_to_buy_padelcash.md#step-4-see-your-padelcash-in-your-wallet)
