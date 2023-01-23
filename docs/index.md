@@ -25,4 +25,4 @@
 
 * [FAQ](faq.md)
 
-    * [Adding BSC to MetaMask Mobile App](faq.md#adding-bsc-to-metamask-mobile-app)
+///* [Adding BSC to MetaMask Mobile App](faq.md#adding-bsc-to-metamask-mobile-app)
